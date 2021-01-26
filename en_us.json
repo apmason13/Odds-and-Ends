@@ -1,0 +1,21 @@
+{
+	"itemGroup.oddsandends.tab_items": "Odds and Ends: Items",
+	"itemGroup.oddsandends.tab_blocks": "Odds and Ends: Blocks",
+
+	"block.oddsandends.trash_can_item": "Trash Can §7[Item]§r",
+	"block.oddsandends.trash_can_fluid": "Trash Can §9[Fluid]§r",
+	"block.oddsandends.trash_can_energy": "Trash Can §4[Energy]§r",
+	"block.oddsandends.trash_can_universal": "Trash Can §5[Universal]§r",
+
+	"item.oddsandends.mini_coal": "Lump of Coal",
+	"item.oddsandends.mini_charcoal": "Lump of Charcoal",
+
+	"oddsandends.text.trash_can_item": "Item Trash Can",
+	"oddsandends.text.trash_can_fluid": "Fluid Trash Can",
+	"oddsandends.text.trash_can_energy": "Energy Trash Can",
+	"oddsandends.text.trash_can_universal": "Universal Trash Can",
+	
+	"oddsandends.text.items": "Items",
+	"oddsandends.text.fluids": "Fluids",
+	"oddsandends.text.energy": "Energy"
+}
